@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: 1 july 2024
+- Facilitator: @tulikagit[D[D[Dp[F[B[C[C[C[C[C[C[C[C[C
 
 ## Class Resources
 
