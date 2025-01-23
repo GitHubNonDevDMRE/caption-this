@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: "Welcome to our slide deck! akhil"
+title: "My name is akhil"
 ---
 
 Caption here
