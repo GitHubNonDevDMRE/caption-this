@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Michael Was Here!!"
 ---
 
 Caption here
-
+![grafitti](https://i.pinimg.com/736x/89/37/bf/8937bf930c288bdd586af9aeefbf661f.jpg)
 ![defunktocat](https://octodex.github.com/images/defunktocat.png)
 {: .center}
