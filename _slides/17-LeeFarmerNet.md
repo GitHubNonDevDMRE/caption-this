@@ -1,9 +1,9 @@
----
+jan---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck! - updated version"
 ---
 
-Caption here
+I've changed this
 
 ![saritocat](https://octodex.github.com/images/saritocat.png)
 {: .center}
